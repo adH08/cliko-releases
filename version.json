@@ -2,5 +2,6 @@
   "version": "1.0.0",
   "minVersion": "1.0.0",
   "url": "https://github.com/adH08/cliko-releases/releases/download/v1.0.0/Cliko-v1.0.0.zip",
-  "checksum": "90dee3e7868217e286fd4658df655184dd85442b0f49fcccebb466a31cdb5966"
+  "checksum": "def2bb26fa874ace4621b54d6f4b903ba2a34bba5b63b570f9eaf868f7df3923",
+  "exeChecksum": "028ae2ee99cd05ba5b5f5ffd2e99482aaed96e67a8f65b2d6230b229a3ea89ba"
 }
