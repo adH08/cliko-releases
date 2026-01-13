@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
-  "url": "https://github.com/adH08/cliko-releases/releases/download/v1.0.0/Cliko.zip",
-  "checksum": ""
+  "minVersion": "1.0.0",
+  "url": "https://github.com/adH08/cliko-releases/releases/download/v1.0.0/Cliko-v1.0.0.zip",
+  "checksum": "a26e61f40eb71aa1330342231b717b246a4bdd8cece9b547da0bcf3961170158"
 }
