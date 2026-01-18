@@ -1,10 +1,10 @@
 {
-  "notes": "Bug fixes and improvements",
-  "version": "1.0.0",
-  "signature": "adS1ewFVeNqCKycoyGXfuiaFeHstYYMkzj0Wvf7Up4gbNXaMJWeQ70N+2KOHWLOdUTN63y1zgslnl2D4nU8nd9PkxxM6d7NfQ9MtTddAUthDt6O+hdQJcOCK6PQamYl7soEtG1f1MpqrowZklshZW7j4i56PSoZZwoJ7WJhZRzWybWYzXLJBxQshsPntOarcb4gUW2eC/JDYLWqiHapFZSduZLBPntzfjpKd2rFirXl/+h/xlZfUlPQmsbdgV0/nfx/D1HmFpRK4YYCcgc1OP5goE6nDJp5OCpE4cyXPClkoSA/nFd/msHt1rgtLklZ+uErHqZaxdoXUEY7+vbcYBw==",
-  "timestamp": 1768726315,
-  "minVersion": "",
+  "url": "https://github.com/adH08/cliko-releases/releases/download/v1.0.0/Cliko-v1.0.0.zip",
+  "timestamp": 1768728575,
+  "signature": "RECrdDWMz3uASn0pWGrSABoi3PMaoHuiW9TDnox1+0D66eBjI74rnms6YTKLhagzzbKDjmn5WonMP/lU2MqxMOc2bvEwi7mEIFrD0xhGwPlyQvyM/G2qpK/J/zaYgem8Rv/LP7RJ3x6XfdIgRuhClW8GsCcm1DIrPhB1MWp0Riz1XdXWTPl30tW7E6RfZa2ALHIVQ6/ceUNLyAeRFLB+YuHG2yeQAUsBLOGEWp7Omv2q/ivvtNvNMKUOZB1P+w1rs7N8llOxBYSI5ttFIcsJ3LwUTj8vsSFoZzA60+7yW89XU1B7JUHiSoQ47+yi/0IXiV0+/2Q6eeEnrYM2ERRHmw==",
+  "checksum": "414696fa9eaf2141ba813a56fb286286f2445b93a01a3067bc09041366a793bb",
+  "minVersion": "1.0.0",
   "exeChecksum": "f7cf969479d0b60e3d5b4846a0dea1119142fa3bd23183b67494e60524c5ff6c",
-  "checksum": "bd357bca341a434019356999f5d3eaa53c180a54d1e0d751ece372d7d14cdba8",
-  "url": "https://github.com/adH08/cliko-releases/releases/download/v1.0.0/Cliko-v1.0.0.zip"
+  "notes": "Bug fixes and improvements",
+  "version": "1.0.0"
 }
