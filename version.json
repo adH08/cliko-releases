@@ -3,7 +3,7 @@
   "timestamp": 1768728575,
   "signature": "RECrdDWMz3uASn0pWGrSABoi3PMaoHuiW9TDnox1+0D66eBjI74rnms6YTKLhagzzbKDjmn5WonMP/lU2MqxMOc2bvEwi7mEIFrD0xhGwPlyQvyM/G2qpK/J/zaYgem8Rv/LP7RJ3x6XfdIgRuhClW8GsCcm1DIrPhB1MWp0Riz1XdXWTPl30tW7E6RfZa2ALHIVQ6/ceUNLyAeRFLB+YuHG2yeQAUsBLOGEWp7Omv2q/ivvtNvNMKUOZB1P+w1rs7N8llOxBYSI5ttFIcsJ3LwUTj8vsSFoZzA60+7yW89XU1B7JUHiSoQ47+yi/0IXiV0+/2Q6eeEnrYM2ERRHmw==",
   "checksum": "414696fa9eaf2141ba813a56fb286286f2445b93a01a3067bc09041366a793bb",
-  "minVersion": "1.0.0",
+  "minVersion": "",
   "exeChecksum": "f7cf969479d0b60e3d5b4846a0dea1119142fa3bd23183b67494e60524c5ff6c",
   "notes": "Bug fixes and improvements",
   "version": "1.0.0"
