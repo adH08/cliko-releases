@@ -1,7 +1,10 @@
 {
-  "version": "1.0.0",
-  "minVersion": "1.0.0",
+  "exeChecksum": "f7cf969479d0b60e3d5b4846a0dea1119142fa3bd23183b67494e60524c5ff6c",
+  "timestamp": 1768705457,
+  "notes": "Bug fixes and improvements",
+  "minVersion": "",
+  "checksum": "b81813cdfa36c4a32dd1fd1a98806cbd468a95c8255b3b912eaa2a7561f25f78",
   "url": "https://github.com/adH08/cliko-releases/releases/download/v1.0.0/Cliko-v1.0.0.zip",
-  "checksum": "def2bb26fa874ace4621b54d6f4b903ba2a34bba5b63b570f9eaf868f7df3923",
-  "exeChecksum": "028ae2ee99cd05ba5b5f5ffd2e99482aaed96e67a8f65b2d6230b229a3ea89ba"
+  "version": "1.0.0",
+  "signature": "H4rWZVJIG70+x3tXtXI8Af+kll4JKh7yIKzQKiyEXOgjXj5thjFYqFkp0WGcWLD6jIiq5BEEMH6Dhd6Tqht4TTxQl2hF6hiteafib68SZxqfW6elkcdcOjMHx7E/egYk7oJmKKo1LMkZI8hYtW6O5lMS38e4dx4lxJwHXj7yohpbDs4kyGgrrbhXIetZOyT+3Zli8AtJlWiwMDxO8HstjrWBFYISnUe+dgV/LkBYx+/Hu6k6HOntHgQvpUA8mJViCviRHZJYeBu5cbVR6FrqsW3IJMGKUMzA+1vNm6Ca9fOSkldRffimwyiYlToS9INMKWczSX49SgJoAEE3BFXWBQ=="
 }
