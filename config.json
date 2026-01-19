@@ -1,0 +1,19 @@
+{
+  "policies": {
+    "vmPolicy": "block",
+    "vmMessage": "This application cannot run in virtual environments for security reasons.",
+    "offlineGraceHours": 5,
+    "maxOfflineSessions": 10,
+    "clockToleranceHours": 24
+  },
+  "killSwitch": {
+    "enabled": false,
+    "message": "This version is no longer supported. Please update to continue.",
+    "affectedVersions": []
+  },
+  "blockedVersions": [],
+  "maintenanceMode": false,
+  "maintenanceMessage": "Cliko is currently under maintenance. Please try again later.",
+  "timestamp": 1768835009,
+  "signature": "WsHZSlFbQMhSJpFri8iITkW7XQpNGgseg/Gu8IvsgDICzKlquILdX4H+T1tcOJliDac4FGm6C/EZg+PGk5JZ3PNWvxkLC9Jy7AQbItfe1bVEoQYVLQyExhWbFXl8wYJ8cM2jiAdoV3KLmOn+HpFY2rEmJSMDkROCtQxfU4grJY2/2VbQI7iddNvbv2yboQ5cZeRZ1Wopde4GIrMdVgX/5jnKXXhsrj2fkLeTE2XIEOMSK+tu7xy1p1uNDyZ0FD4TZnAYiJG3YqMM0crhJCHp6vPbaYCOj8T//Ukfp/IARjLhG4kOFSQHteedUTG9hEHf1XSp+KtGmh+ESyFXdmAz2A=="
+}
